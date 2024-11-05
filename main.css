@@ -1,0 +1,12 @@
+body{
+    background-color: teal;
+}
+h1, h2, p{
+    background-color: orange;
+}
+a:hover{
+    background-color: white;
+}
+ul{
+    color: orange;
+}
